@@ -1,0 +1,108 @@
+    1  man ls
+    2  help ls
+    3  ls
+    4  clear
+    5  ls
+    6  cd
+    7  cd ..
+    8  ls
+    9  cd~
+   10  ls
+   11  cd Public
+   12  cd P
+   13  pwd
+   14  cd Admin
+   15  cd ..
+   16  mkdir publik
+   17  mkdir Lesson
+   18  touch empty.txt
+   19  ls
+   20  vim empty.txt
+   21  nano empty.txt
+   22  cat empty.txt 
+   23  cp empty.txt
+   24  pwd
+   25  mv Desktop
+   26  rm empty.txt
+   27  ping gool.com
+   28  ping
+   29  date
+   30  system_profiler
+   31  clier
+   32  df-h
+   33  ifconfig
+   34  whoami
+   35  cd Desktop
+   36  touch test.txt
+   37  chmod 777 test.txt
+   38  cd Git
+   39  git config --global user.name "Krystyna Koshak"
+   40  git --global user.email kosh.krystynagmail.com
+   41  ls
+   42  desktop/git ls
+   43  git clone https://github.com/KrystynaKoshak/Lesson3.git
+   44  git status
+   45  cd Lesson3 git status
+   46  touch New.txt
+   47  git add New.txt
+   48  git commit -m"New file created"
+   49  git log
+   50   git branch
+   51  desktop/git git branch
+   52  desktop/git git checkout -b new_branch
+   53  cd
+   54  
+   55  config --global user.name "Krystyna Koshak"
+   56  config --global user.email kosh.krystyna@gmail.com
+   57  git clone https://github.com/KrystynaKoshak/HW_10.git
+   58  cd HW_10
+   59  git status
+   60  touch text_ignore.txt
+   61  git status
+   62  git add text_ignore.txt
+   63  git status
+   64  git commit -m "New file created"
+   65  git config --global user.name "Krystyna Koshak"
+   66  git config --global user.email kosh.krystyna@gmail.com
+   67  git config --global user.email "kosh.krystyna@gmail.com"
+   68  git config --global user.name "Krystyna Koshak"
+   69  touch main_text.txt
+   70  git status
+   71  git add main_text.txt
+   72  git status
+   73  git commit -m "New file2 creabed"
+   74  nano.gitignore
+   75  cd gitignore
+   76  nano. gitignore
+   77  git checkout develop
+   78  git checkout "develop"
+   79  git branch
+   80  git checkout develop
+   81  git checkout -b develop
+   82  git develop
+   83  git branch
+   84  touch develop_test.txt
+   85  git status
+   86  git add develop_test.txt
+   87  git status
+   88  git commit -m "New file3 created"
+   89  git status
+   90  git log
+   91  nano develop_test.txt
+   92  git status
+   93  git add develop_test.txt
+   94  git status
+   95  git commit -m "New comments"
+   96  git branch
+   97  git checkout main
+   98  git checkout "main"
+   99  git merge develop
+  100  git branch
+  101  git status
+  102  git commit
+  103  git status
+  104  git add main
+  105  git status
+  106  git log
+  107  command_list.csv
+  108  history > command_list.csv
